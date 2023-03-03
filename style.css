@@ -1,0 +1,44 @@
+.heading2
+{
+    color: red;
+    font-style: italic;
+}
+.list
+{
+    color: brown;
+
+}
+.list1
+{
+    text-decoration-line:line-through ;
+
+}
+.list2
+{
+    background-color: yellow;
+}
+.list3
+{
+    font-style:italic ;
+    text-decoration-line: underline;
+}
+.list4
+{
+    color: brown;
+    letter-spacing: 5px;
+}
+.list5
+{
+    background-color: yellow;
+}
+.para
+{
+    color: brown;
+}
+.anchor
+{
+    color: brown;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration-line: none;
+}
